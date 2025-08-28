@@ -2,58 +2,47 @@
 
 ## Project Overview
 
-This Obsidian vault contains comprehensive documentation for the HobbleSpring Vampire: The Masquerade campaign. The project is well-organized into distinct categories covering all aspects of the tabletop RPG experience.
+This streamlined Obsidian vault contains organized player notes for the HobbleSpring Vampire: The Masquerade campaign. Designed from a player's perspective, it focuses on character development, session tracking, world knowledge, and NPC relationships.
 
-## File Structure Review
-
-### 📁 Campaign/
-Core campaign documentation including:
-- `chronicle.md` - Main campaign overview and timeline
-- `current-story-arc.md` - Active storyline tracking
-- `house-rules.md` - Custom game modifications
-- `plot-threads.md` - Ongoing narrative elements
+## File Structure
 
 ### 📁 Characters/
-Detailed character documentation with two main sections:
+Character documentation with two main sections:
 
-#### My Character/
-Personal character files including:
-- `char_road_map.md` - Comprehensive character development guide featuring a 6'11" vampire with military background
-- `character-sheet.md` - Game statistics and mechanics
-- `character-journal.md` - In-character diary entries
-- `backgrounds.md` - Character history and origins
-- `equipment-gear.md` - Items and possessions
-- `goals-motivations.md` - Character objectives
-- `relationships.md` - Social connections
+#### My-Character/
+- `character-sheet.md` - Game statistics, mechanics, and equipment
+- `character-notes.md` - Background, personality, goals, relationships, and development tracking
 
-#### NPCs/ & Party/
-- Organized NPC categories (allies, contacts, enemies, neutral)
-- Party dynamics documentation
+#### NPCs/
+- `npc-notes.md` - Consolidated NPC reference organized by relationship type (allies, contacts, enemies, neutral, political figures)
 
 ### 📁 Sessions/
-Session management divided into:
-- **session-notes/** - Post-session documentation
-- **session-prep/** - Pre-session planning materials
-- **downtime/** - Between-session activities and long-term projects
+Session management and tracking:
+- `session-notes.md` - Session summaries, timeline, and campaign events
+- `character-actions.md` - Session prep, downtime activities, and character planning
+- `character-journal.md` - Personal in-character reflections and thoughts
 
 ### 📁 World/
-Comprehensive world-building documentation:
-- **locations/** - Maps, key locations, and havens
-- **lore/** - Vampire politics, local history, and Masquerade rules
-- **organizations/** - Clans, coteries, and mortal groups
+World knowledge and setting information:
+- `locations.md` - Havens, territories, key locations, and maps
+- `lore-politics.md` - Kindred politics, clan information, masquerade rules, and local history
 
-## Project Status
+### 📄 campaign-overview.md
+High-level campaign tracking including story arcs, plot threads, house rules, and campaign timeline.
 
-The campaign appears to be in early setup phase with template structures in place. The character development is notably detailed, featuring a unique vampire character - a giant (6'11") former military engineer turned underground metal musician with expertise in pyrotechnics and mechanics.
+## Project Features
 
-## Key Features
-
-- **Comprehensive Organization**: Well-structured folder hierarchy for all campaign elements
-- **Detailed Character Development**: Extensive character background and development roadmap
-- **World-Building Framework**: Complete structure for Vampire: The Masquerade setting elements
-- **Session Management**: Tools for both preparation and documentation
+- **Player-Focused Organization**: Streamlined structure optimized for player note-taking
+- **Consolidated Information**: Reduced from 20+ files to 8 focused documents
+- **Comprehensive Character Tracking**: Detailed development of a 6'11" military engineer/musician vampire
+- **Session Management**: Tools for preparation, documentation, and reflection
+- **World Knowledge Base**: Organized setting information and NPC relationships
 - **Git Integration**: Version control for tracking campaign evolution
 
-## Notable Elements
+## Character Concept
 
-The main character concept is particularly well-developed, featuring a complex personality combining military precision, technical expertise, and artistic expression through underground metal music and pyrotechnics. The character serves as a "fixer" - someone who gets things done reliably, which likely influenced their Embrace into vampiric society.
+The main character is a unique vampire - a giant (6'11") former military engineer turned underground metal musician with expertise in pyrotechnics and mechanics. Known as a reliable "fixer," this character combines military precision, technical expertise, and artistic expression through music and pyrotechnics, making them a valuable asset in vampiric society.
+
+## Usage
+
+This vault is designed for active campaign participation, with templates and structures ready to be populated as the campaign progresses. Each file contains organized sections for easy reference during gameplay and between sessions.
