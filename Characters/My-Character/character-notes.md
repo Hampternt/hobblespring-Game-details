@@ -6,10 +6,13 @@
 - **Conflicts:** Vietnam War, Korean War, or African conflicts
 - **Role:** Engineer/demolitions specialist
 - **Key Skills Developed:**
-  - Technical problem-solving under pressure
-  - Mechanical innovation and improvisation
-  - Strategic thinking
-  - Leadership and reliability
+	- Technical problem-solving under pressure
+	- Mechanical innovation and improvisation
+	- Strategic thinking
+	- Leadership and reliability
+#### Next iteration Military service
+- **Conflicts:** Vietnam war, Korean war's and some minor missions in Africa ( The suez crisis and Congo crisis )
+- **Role:** Combat Engineer 
 
 ### Post-Military Career
 - **Transition:** Smooth adjustment to civilian life
@@ -116,9 +119,6 @@
 - **Next Steps:** 
 - **Timeline:** 
 
-
-
-
 --------------
 # Vampire Character Development
 
@@ -207,3 +207,98 @@
 - **Workaholic Tendencies:** Creates work for himself as distraction from existential concerns
 - **Functional Adaptation:** Has adapted to vampiric existence through constant activity
 - **Emotional Management:** Uses productivity to maintain mental stability
+
+----
+## Outstanding Character Decisions
+
+### **Clan Choice** ⚠️ NEEDS DECISION
+
+- **Tzimisce Option:**
+    - Pros: Interesting contrast (refined clan, practical giant member)
+    - Cons: May not fit his straightforward personality
+    - Disciplines: Animalism, Dominate, Protean
+
+### **Timeline & Embrace Details** ⚠️ NEEDS DECISION
+
+- **Which War:** Vietnam, Korea, or African conflicts?
+- **Embrace Timing:** During military service vs. later as civilian?
+- **Current Age:** How long has he been a vampire?
+- **Music Career Status:** Still active performer or moved to other work?
+
+### **Background Consistency Check**
+
+- If embraced during military service: How does music career fit?
+- If embraced as civilian: Which war and what year of embrace?
+- Timeline must align with when underground metal scene existed
+
+## Sire Analysis & Relationship
+
+### **Why His Sire Chose Him**
+
+Beyond just the "fixer" reputation, his sire likely needed:
+
+#### **Operational Requirements**
+
+- **Complex Problem Solver:** Someone who could handle both technical challenges AND physical enforcement
+- **Reliable Asset:** Proven track record of completing difficult tasks under pressure
+- **Versatile Operative:** "Swiss Army knife" vampire who could adapt to various situations
+- **Long-term Projects:** Specific operations requiring both brains and brawn over extended periods
+
+#### **Rare Combination of Traits**
+
+- **Not Just Muscle:** Any vampire can get strong with disciplines - his value is the combination
+- **Technical + Physical + Strategic:** Very rare to find all three in one person
+- **Proven Reliability:** Military and civilian track record of getting things done
+- **Low Maintenance:** Self-directed personality means less micromanagement needed
+
+### **Potential Sire Types**
+
+- **Elder with Territory:** Needs reliable lieutenant for domain management
+- **Criminal Operations:** Requires someone for both planning and enforcement
+- **Camarilla Archon:** Needs versatile agent for various missions
+- **Independent Operator:** Wants capable partner for complex schemes
+
+### **Current Sire Relationship Questions** ⚠️ NEEDS DECISION
+
+- Does he still work for his sire directly?
+- Has he been "released" to operate independently?
+- What was his initial "assignment" after embrace?
+- How does his workaholic nature serve (or complicate) this relationship?
+
+## Character's Unique Value Proposition
+
+### **What Makes Him Special in Vampire Society**
+
+1. **Practical Problem Solving:** Can fix things others can't or won't
+2. **Physical Presence + Intelligence:** Rare combination of intimidation and innovation
+3. **Reliability Under Pressure:** Proven in both mortal military and vampire contexts
+4. **Self-Sustaining:** Creates his own work, doesn't need constant direction
+5. **Adaptable Skill Set:** Can handle technical, social, or physical challenges
+
+### **Potential Roles in Kindred Society**
+
+- **Domain Troubleshooter:** Fixes problems other vampires can't handle
+- **Independent Contractor:** Takes jobs from multiple vampires
+- **Coterie Asset:** The one everyone calls when things get complicated
+- **Territory Manager:** Oversees practical aspects of vampire operations
+- **Information Broker:** Uses technical skills to gather intelligence
+
+## Questions for GM Discussion
+
+### **Background Integration**
+
+- What vampire factions exist in the setting?
+- Which clan would fit best with the chronicle's themes?
+- What role does the GM envision for this character?
+
+### **Timeline Alignment**
+
+- What year does the chronicle take place?
+- How does this affect his military service and embrace timing?
+- Are there specific historical events that would impact his background?
+
+### **Sire & Society Integration**
+
+- Will his sire be an active NPC in the chronicle?
+- What kind of "work" is available for his character type?
+- How do local Kindred view reliable "fixers"?
