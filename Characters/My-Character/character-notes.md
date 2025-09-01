@@ -20,20 +20,20 @@ Odin
 - Had a close relation ship with the squad leader team captain who later would go on to create teh mercenary corp, 
 
 ### Military Service
-- **Conflicts:** Vietnam War, Korean War, or African conflicts
-- **Role:** Engineer/demolitions specialist
+- **Conflicts:** Korean War (1950-1953), Vietnam War, African conflicts (Suez Crisis, Congo Crisis)
+- **Role:** Combat Engineer/demolitions specialist
+- **Timeline:** Joined at age 18 (1950), served through Korean War, later Vietnam
 - **Key Skills Developed:**
 	- Technical problem-solving under pressure
 	- Mechanical innovation and improvisation
 	- Strategic thinking
 	- Leadership and reliability
-#### Next iteration Military service
-- **Conflicts:** Vietnam war, Korean war's and some minor missions in Africa ( The suez crisis and Congo crisis )
-- **Role:** Combat Engineer 
+- **Mentor:** Learned critical skills from a mentor who taught him much of his technical expertise
+- **Leadership Connection:** Served under Platoon Leader Hendrik, who later formed mercenary corp in Africa 
 
 ### Post-Military Career
-- **Transition:** Smooth adjustment to civilian life
-- **Underground Metal Musician:** Combined music passion with pyrotechnic skills
+- **Transition:** Relatively smooth transition to the civilian life by the use of his skills.
+- **Underground Metal Musician:** Combined music passion with pyrotechnic skills, small audience and uploads some songs every so often along with videos on various home built experiments he does.
 - **Mechanic/Technical Work:** Applied military engineering in civilian context
 - **"Fixer" Reputation:** Known as someone who gets things done reliably
 
@@ -41,14 +41,16 @@ Odin
 - **Height:** 6'11" (approximately 7 feet)
 - **Weight:** ~350-400 lbs
 - **Build:** Extremely strong, well-built physique
-- **Demeanor:** Quiet, pragmatic, gentle giant type
+- **Demeanor:** Quiet, pragmatic, gentle giant type type. 
 
 ## Personality & Traits
 
 ### Core Motivations
 - **Experimentation:** Testing practical, tangible applications
 - **Problem-Solving:** Being the reliable "fixer"
-- **Staying Busy:** Avoiding introspection about vampiric nature
+- **Staying Busy:** Compulsive need for constant activity and work
+- **Autopilot Living:** Following orders and keeping mind distracted with endless tasks
+- **Avoiding Introspection:** Uses busyness to prevent dwelling on loss, vampiric nature, or existential concerns
 
 ### True Passions
 - **Experimentation:** Driven by curiosity for practical applications
@@ -67,27 +69,36 @@ Odin
 - Secondary: Physical intimidation factor, technical expertise, strategic thinking
 
 ### Response to Vampirism
-- **Coping Mechanism:** Endless work and hobby immersion
-- **Practical Approach:** Views vampiric abilities as tools to understand
-- **Avoidance Strategy:** Constant activity to prevent introspection
+- **Coping Mechanism:** Endless work and hobby immersion - continuation of lifelong pattern
+- **Practical Approach:** Views vampiric abilities as tools to understand and master
+- **Avoidance Strategy:** Constant activity to prevent introspection about his nature
+- **Autopilot Reinforcement:** Vampirism intensified his pre-existing tendency to stay busy and follow orders
+- **Purpose Through Work:** Uses tasks and projects to maintain sense of purpose and meaning
 
 ## Goals & Motivations
 
 ### Short-term Goals
-- [ ] 
-- [ ] 
+- [ ] Maintain George Shoemaker's welfare and check on his wellbeing
+- [ ] Complete current vehicle restoration project
+- [ ] Establish secure workshop space for technical projects
 
 ### Long-term Objectives
-- [ ] 
-- [ ] 
+- [ ] Honor fallen comrades' memory through continued service/purpose
+- [ ] Maintain connection with his brother despite distance
+- [ ] Master vampiric abilities as practical tools
+- [ ] Build reliable network of contacts for "fixer" work
 
 ### Fears & Concerns
-- 
-- 
+- Losing more people he cares about (George, his brother)
+- Being forced into periods of inactivity or introspection
+- Failing to live up to his mentor's teachings and example
+- Not being able to maintain his responsibilities to others
 
 ### Character Arc Goals
-- [ ] 
-- [ ] 
+- [ ] Confront his pattern of using work to avoid processing trauma and loss
+- [ ] Develop deeper relationships beyond transactional "fixer" role
+- [ ] Find peace with his vampiric nature rather than just managing it
+- [ ] Create lasting legacy that honors his fallen comrades 
 
 ## Relationships
 
@@ -105,9 +116,26 @@ Odin
   - Notes: 
 
 
+### Fallen Comrades (Deceased)
+- **Balder:** Korean War comrade, killed in combat 1952
+  - Relationship: Close friend and fellow soldier
+  - Impact: One of several losses that shaped Odin's worldview
+- **"Pig-faced" Jack:** Korean War comrade, died in mortar strike 1953
+  - Relationship: Squad mate and friend
+  - Impact: Another tragic loss during the war
+- **Platoon Leader Hendrik:** Mentor and leader figure
+  - Korean War leader, later formed mercenary corp in Africa
+  - Died during Suez Crisis - captured, tortured, died in prison
+  - Impact: Loss of respected mentor and potential future connection
+
 ### Family/Mortal Connections
-- 
-- 
+- **Brother:** Retired and currently living in an old people's home
+  - Relationship: Distant but still family
+  - Current Status: Minimal contact, knows his location
+- **George Shoemaker:** Son of deceased mentor
+  - Relationship: Protective/guardian role out of respect for mentor
+  - Background: Odin cares for him due to respect for his mentor who taught him critical skills
+  - Current Status: Ongoing responsibility and connection
 
 
 ## Long-term Projects
@@ -129,6 +157,13 @@ Odin
 - **Progress:** 
 - **Next Steps:** 
 - **Timeline:** 
+
+### Vehicle Maintenance & Upgrades
+- **Goal:** Maintain and improve his highly valued car/truck
+- **Progress:** Ongoing restoration and modification work
+- **Next Steps:** Performance upgrades, reliability improvements
+- **Timeline:** Continuous project, high priority
+- **Notes:** This vehicle holds significant personal value and receives dedicated attention
 
 ### Information Network
 - **Goal:** Build reliable contact network
@@ -159,14 +194,17 @@ Odin
 
 ### Service Details
 
-- **Conflicts:** Vietnam War, Korean War, or African conflicts (game-dependent)
-- **Role:** Likely engineer/demolitions specialist
+- **Conflicts:** Korean War (1950-1953), Vietnam War, African conflicts (Suez Crisis, Congo Crisis)
+- **Role:** Combat engineer/demolitions specialist
+- **Timeline:** Enlisted at 18 (1950), served through Korean War into Vietnam era
+- **Key Leadership:** Served under Platoon Leader Hendrik, who later formed mercenary corp
 - **Learning Style:** Trial by fire - gained technical knowledge under pressure
 - **Skills Developed:**
     - Technical problem-solving under extreme conditions
     - Mechanical innovation/improvisation
     - Strategic thinking
     - Leadership/reliability under pressure
+- **Tragic Losses:** Lost close comrades Balder (1952) and "Pig-faced" Jack (1953) in Korean War
 
 ### Post-Military Transition
 

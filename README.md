@@ -41,7 +41,16 @@ High-level campaign tracking including story arcs, plot threads, house rules, an
 
 ## Character Concept
 
-The main character is a unique vampire - a giant (6'11") former military engineer turned underground metal musician with expertise in pyrotechnics and mechanics. Known as a reliable "fixer," this character combines military precision, technical expertise, and artistic expression through music and pyrotechnics, making them a valuable asset in vampiric society.
+**Odin** - A unique vampire standing 6'11" tall, born in 1932 and embraced after extensive military service. Originally a combat engineer and demolitions specialist who served in the Korean War (1950-1953) and Vietnam War, he later transitioned to become an underground metal musician specializing in pyrotechnics.
+
+### Key Background Elements:
+- **Military Service**: Lost his father in WWII, joined the army at 18 seeking purpose. Served under Platoon Leader Hendrik and formed close bonds with fellow soldiers Balder and "Pig-faced" Jack, all of whom died in service
+- **Post-Military Career**: Smooth transition to civilian life as a mechanic and underground metal musician, combining technical expertise with artistic expression
+- **Core Personality**: Workaholic who uses constant activity to avoid introspection, known as a reliable "fixer" who gets things done
+- **Key Relationships**: Cares for George Shoemaker (son of his deceased mentor) and maintains distant contact with his retired brother
+- **Unique Value**: Combines physical intimidation, technical problem-solving, and strategic thinking - making him a valuable asset in vampiric society
+
+The character represents a complex figure who copes with vampirism through the same mechanism he used in life: endless work and purposeful activity to avoid dwelling on loss and existential concerns.
 
 ## Usage
 
