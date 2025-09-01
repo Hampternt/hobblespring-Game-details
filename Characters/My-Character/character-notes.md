@@ -1,6 +1,23 @@
 # Character Notes
 
 ## Background & History
+Born in 1932, his dad died in the WW2 war when he was young,
+He joined the army to try to give himself a purpose, he himself basically being on autopilot for most of his life doing what hes told and keeping his mind distraction's with endless work and hobbies. Rarely any time for break's.
+Odin joined the military at the age of 18 in hopes of finding a purpose, but instead finding a place he thrived. It did not solve his issues but gave him a endless amount of work to complete.
+He found some commradery under the platoon leader in the Korean war, platoon leader Hendrik, who was later started a mercenary core in Africa that participated in the Congo crisis and Suez Crisis.
+All the friends he made in thw war's are now dead having died in the war under various unfortunate circumstances.
+Balder - Korean war, 1952 Shot in combat.
+Pig faced Jack - Korean war 1953, mortar strike.
+Platoon leader Hendrik - Suez Crisis, captured and tortured, died in prison.
+Odin had a mentor that he learned allot of his skills from named something, he as respect to his mentor cares for his son since his mentor is now dead. his sons name is George Shoemaker.
+Has a car or truck he values highly and dedicates allot too.
+Has a brother who is now retired and living in a old people's home somewhere. 
+
+important information for the game.
+
+Odin
+- Fought in the Korean war and later the Vietnam war.
+- Had a close relation ship with the squad leader team captain who later would go on to create teh mercenary corp, 
 
 ### Military Service
 - **Conflicts:** Vietnam War, Korean War, or African conflicts

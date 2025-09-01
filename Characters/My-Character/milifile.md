@@ -1,7 +1,7 @@
 # CLASSIFIED PERSONNEL FILE
 
 **SECURITY CLEARANCE:** KINDRED EYES ONLY  
-**OPERATIONAL NAME:** "Tower" | **CLAN:** Tzimisce (Dracon) | **EMBRACE:** Late 1960s/Early 1970s  
+**OPERATIONAL NAME:** "Tower" | **REAL NAME:** Odin Odegard | **CLAN:** Tzimisce (Dracon) | **EMBRACE:** Late 1960s/Early 1970s  
 **KINDRED AGE:** ~50-60 years | **SPECS:** 6'11", 350-400 lbs
 
 ---
