@@ -1,79 +1,110 @@
-# Character Notes
+A - The naval is aligned to the legs and not the torso, where the navel aligns more with the torso than it does the legs, I think the twist of the torso may look a bit weird if its moved, but if the right leg had been the leg in front then it may have made the navel belly location appear a bit more anatomically correct. 
+B - 
 
-## Background & History
-Born in 1932, his dad died in the WW2 war when he was young,
-He joined the army to try to give himself a purpose, he himself basically being on autopilot for most of his life doing what hes told and keeping his mind distraction's with endless work and hobbies. Rarely any time for break's.
-Odin joined the military at the age of 18 in hopes of finding a purpose, but instead finding a place he thrived. It did not solve his issues but gave him a endless amount of work to complete.
-He found some commradery under the platoon leader in the Korean war, platoon leader Hendrik, who was later started a mercenary core in Africa that participated in the Congo crisis and Suez Crisis.
-All the friends he made in thw war's are now dead having died in the war under various unfortunate circumstances.
-Balder - Korean war, 1952 Shot in combat.
-Pig faced Jack - Korean war 1953, mortar strike.
-Platoon leader Hendrik - Suez Crisis, captured and tortured, died in prison.
-Odin had a mentor that he learned allot of his skills from named something, he as respect to his mentor cares for his son since his mentor is now dead. his sons name is George Shoemaker.
-Has a car or truck he values highly and dedicates allot too.
-Has a brother who is now retired and living in a old people's home somewhere. 
+TIMECODES:- [00:00](https://www.youtube.com/watch?v=FVmAEezr6ao) - INTRO [01:35](https://www.youtube.com/watch?v=FVmAEezr6ao&t=95s) - RUDOLF LABAN EFFORTS [02:50](https://www.youtube.com/watch?v=FVmAEezr6ao&t=170s) - VOICE WEIGHT [03:01](https://www.youtube.com/watch?v=FVmAEezr6ao&t=181s) - VOCAL TIMING [03:21](https://www.youtube.com/watch?v=FVmAEezr6ao&t=201s) - LABAN EFFORTS FOR THE VOICE [03:36](https://www.youtube.com/watch?v=FVmAEezr6ao&t=216s) - DABBING [04:00](https://www.youtube.com/watch?v=FVmAEezr6ao&t=240s) - FLICKING [04:21](https://www.youtube.com/watch?v=FVmAEezr6ao&t=261s) - PRESSING [04:41](https://www.youtube.com/watch?v=FVmAEezr6ao&t=281s) - FLOATING [05:30](https://www.youtube.com/watch?v=FVmAEezr6ao&t=330s) - NASAL VOICE EXAMPLE [05:34](https://www.youtube.com/watch?v=FVmAEezr6ao&t=334s) - THROATY VOICE EXAMPLE [06:43](https://www.youtube.com/watch?v=FVmAEezr6ao&t=403s) - BREATHY OR DRY VOCAL QUALITIES [07:05](https://www.youtube.com/watch?v=FVmAEezr6ao&t=425s) - VOCAL AGE RANGE [08:00](https://www.youtube.com/watch?v=FVmAEezr6ao&t=480s) - MALE OR FEMALE VOICE [08:33](https://www.youtube.com/watch?v=FVmAEezr6ao&t=513s) - SMALL, MEDIUM OR LARGE VOICE CHARACTERISTICS [09:33](https://www.youtube.com/watch?v=FVmAEezr6ao&t=573s) - VOCAL TEMPO [10:30](https://www.youtube.com/watch?v=FVmAEezr6ao&t=630s) - VOCAL TONE AND ATTITUDE [11:22](https://www.youtube.com/watch?v=FVmAEezr6ao&t=682s) - ACCENT OPTIONS [11:41](https://www.youtube.com/watch?v=FVmAEezr6ao&t=701s) - VOCAL ISSUES [12:16](https://www.youtube.com/watch?v=FVmAEezr6ao&t=736s) - MOTIVATION 14:14 - OUTRO
+# Odin Game important information.
+- Touchstone's
+	- Car. A truck that he has souped up that he bought from Vietnam Military surplus.
+	- Brother. James, Balder. 
+	- Mentor's Son. George Shoemaker. 
 
-important information for the game.
+- Key notes
+	- Father died during ww2
+	- Joined the army looking for a purpose.
+	- Korean war then Vietnam war then brief stint as a mercenary.
+	- Got blood bonded likely some time as his stint as a mercenary.
+	- Later would get embraced fully as a Tzimisce, The sire is of the Draculas Bloodline.
+		- The sire was harsh and militaristick in nature, taking after his blood line.
+		- Name of the sire is [ Mercy Whitmore ]
+			- Strong, dedicated sire.
+			- Know what she wants.
+			- Possessive commanding authoritative.
+			- Harsh.
+		- 
+# Odin - Character Notes
 
-Odin
-- Fought in the Korean war and later the Vietnam war.
-- Had a close relation ship with the squad leader team captain who later would go on to create teh mercenary corp, 
+## Character Concept
 
-### Military Service
-- **Conflicts:** Korean War (1950-1953), Vietnam War, African conflicts (Suez Crisis, Congo Crisis)
-- **Role:** Combat Engineer/demolitions specialist
-- **Timeline:** Joined at age 18 (1950), served through Korean War, later Vietnam
-- **Key Skills Developed:**
-	- Technical problem-solving under pressure
-	- Mechanical innovation and improvisation
-	- Strategic thinking
-	- Leadership and reliability
-- **Mentor:** Learned critical skills from a mentor who taught him much of his technical expertise
-- **Leadership Connection:** Served under Platoon Leader Hendrik, who later formed mercenary corp in Africa 
+**Odin** - A vampire standing 6'11" tall, born in 1932 and embraced after extensive military service. Served in the Korean War and Vietnam War before a brief stint as a mercenary before eventually being embraced as kindred. He later transitioned to become an underground metal musician specializing in pyrotechnics, though that is more of a hobby than anything else.
 
-### Post-Military Career
-- **Transition:** Relatively smooth transition to the civilian life by the use of his skills.
-- **Underground Metal Musician:** Combined music passion with pyrotechnic skills, small audience and uploads some songs every so often along with videos on various home built experiments he does.
-- **Mechanic/Technical Work:** Applied military engineering in civilian context
-- **"Fixer" Reputation:** Known as someone who gets things done reliably
+## Physical Description
 
-### Physical Description
 - **Height:** 6'11" (approximately 7 feet)
 - **Weight:** ~350-400 lbs
 - **Build:** Extremely strong, well-built physique
-- **Demeanor:** Quiet, pragmatic, gentle giant type type. 
+- **Demeanor:** Quiet, pragmatic, gentle giant type
+
+## Background & History
+
+### Early Life
+- **Born:** 1932
+- **Family Tragedy:** Father died in WWII when Odin was young
+- **Early Motivation:** Joined the army at age 18 to find purpose, though he mostly lived on autopilot
+
+### Military Service (1950-1970s)
+- **Timeline:** Enlisted at 18 (1950), served through Korean War into Vietnam era
+- **Role:** Combat Engineer/demolitions specialist
+- **Key Conflicts:**
+  - Korean War (1950-1953)
+  - Vietnam War
+  - African conflicts (Suez Crisis, Congo Crisis via mercenary work)
+
+#### Key Military Relationships
+- **Platoon Leader Hendrik:** Mentor figure who later formed mercenary corp in Africa
+- **Balder:** Close friend, killed in combat 1952 (Korean War)
+- **"Pig-faced" Jack:** Squad mate, died in mortar strike 1953 (Korean War)
+- **Unnamed Mentor:** Taught Odin critical technical skills (deceased)
+
+#### Skills Developed
+- Technical problem-solving under extreme pressure
+- Mechanical innovation and improvisation
+- Strategic thinking
+- Leadership and reliability under pressure
+
+### Post-Military Career
+- **Transition:** Smooth adjustment to civilian life using military skills
+- **Primary Work:** Mechanic and technical specialist
+- **Music Career:** Underground metal musician combining pyrotechnic skills with performance
+- **Reputation:** Known as a reliable "fixer" who gets things done
+
+### Current Mortal Connections
+- **Brother:** Retired, living in an old people's home (minimal contact)
+- **George Shoemaker:** Son of deceased mentor, under Odin's protective care
+- **Valued Vehicle:** Car or truck that receives dedicated attention and restoration work
 
 ## Personality & Traits
 
-### Core Motivations
-- **Experimentation:** Testing practical, tangible applications
-- **Problem-Solving:** Being the reliable "fixer"
-- **Staying Busy:** Compulsive need for constant activity and work
-- **Autopilot Living:** Following orders and keeping mind distracted with endless tasks
-- **Avoiding Introspection:** Uses busyness to prevent dwelling on loss, vampiric nature, or existential concerns
+### Core Personality
+- **Intelligence Type:** Intuitive and practical (not academic)
+- **Core Motivation:** Compulsive need for constant activity and work
+- **Coping Mechanism:** Uses endless tasks to avoid introspection and processing trauma
+- **Social Style:** Quiet, pragmatic approach; doesn't define himself by his physical stature
 
 ### True Passions
-- **Experimentation:** Driven by curiosity for practical applications
+- **Experimentation:** Driven by curiosity for practical, tangible applications
 - **Pyrotechnics & Mechanics:** Hands-on learning and testing
-- **Music:** Broad taste, plays metal professionally for pyrotechnic opportunities
+- **Music:** Broad personal taste, plays metal professionally for pyrotechnic opportunities
 
-### Intelligence Profile
-- **Type:** Intuitive and practical intelligence
-- **Strengths:** Logical thinking, strategic thinking, mechanical innovation, improvisation skills
-- **Note:** Not academic intelligence - more hands-on, problem-solving oriented
+### Psychological Patterns
+- **Autopilot Living:** Following orders and keeping mind distracted with endless tasks
+- **Avoiding Introspection:** Uses busyness to prevent dwelling on loss, vampiric nature, or existential concerns
+- **Self-Directed:** Makes life choices based on personal fulfillment rather than external expectations
 
 ## The Embrace
 
-### Why Chosen
-- Primary: "Fixer" reputation - reliable problem solver
-- Secondary: Physical intimidation factor, technical expertise, strategic thinking
+### Why He Was Chosen
+- **Primary:** "Fixer" reputation - reliable problem solver
+- **Secondary Factors:**
+  - Physical intimidation factor
+  - Technical expertise for complex problems
+  - Strategic thinking for planning operations
+  - Proven ability to perform under extreme pressure
 
 ### Response to Vampirism
-- **Coping Mechanism:** Endless work and hobby immersion - continuation of lifelong pattern
+- **Coping Strategy:** Continuation of lifelong pattern - endless work and hobby immersion
 - **Practical Approach:** Views vampiric abilities as tools to understand and master
-- **Avoidance Strategy:** Constant activity to prevent introspection about his nature
-- **Autopilot Reinforcement:** Vampirism intensified his pre-existing tendency to stay busy and follow orders
-- **Purpose Through Work:** Uses tasks and projects to maintain sense of purpose and meaning
+- **Avoidance Reinforcement:** Vampirism intensified his pre-existing tendency to stay busy
+- **Emotional Management:** Uses constant activity and productivity to maintain mental stability
 
 ## Goals & Motivations
 
@@ -98,262 +129,70 @@ Odin
 - [ ] Confront his pattern of using work to avoid processing trauma and loss
 - [ ] Develop deeper relationships beyond transactional "fixer" role
 - [ ] Find peace with his vampiric nature rather than just managing it
-- [ ] Create lasting legacy that honors his fallen comrades 
+- [ ] Create lasting legacy that honors his fallen comrades
 
 ## Relationships
 
-### Sire
-- **Name:** 
-- **Relationship Status:** 
-- **Notes:** 
-
-### Coterie Members
-- **Character 1:** 
-  - Relationship: 
-  - Notes: 
-- **Character 2:** 
-  - Relationship: 
-  - Notes: 
-
+### Vampire Society
+- **Sire:** [To be determined]
+- **Coterie Members:** [To be filled in during play]
+- **Clan:** [Pending decision - considering Tzimisce or "brute clans"]
 
 ### Fallen Comrades (Deceased)
 - **Balder:** Korean War comrade, killed in combat 1952
-  - Relationship: Close friend and fellow soldier
-  - Impact: One of several losses that shaped Odin's worldview
+  - Close friend and fellow soldier who shaped Odin's worldview
 - **"Pig-faced" Jack:** Korean War comrade, died in mortar strike 1953
-  - Relationship: Squad mate and friend
-  - Impact: Another tragic loss during the war
+  - Squad mate whose loss reinforced Odin's pattern of avoiding emotional processing
 - **Platoon Leader Hendrik:** Mentor and leader figure
-  - Korean War leader, later formed mercenary corp in Africa
-  - Died during Suez Crisis - captured, tortured, died in prison
-  - Impact: Loss of respected mentor and potential future connection
+  - Died during Suez Crisis (captured, tortured, died in prison)
+  - Loss of respected mentor and potential future connection
 
-### Family/Mortal Connections
-- **Brother:** Retired and currently living in an old people's home
-  - Relationship: Distant but still family
-  - Current Status: Minimal contact, knows his location
+### Living Connections
+- **Brother:** Retired, living in assisted living facility
+  - Distant but still family; minimal contact but knows his location
 - **George Shoemaker:** Son of deceased mentor
-  - Relationship: Protective/guardian role out of respect for mentor
-  - Background: Odin cares for him due to respect for his mentor who taught him critical skills
-  - Current Status: Ongoing responsibility and connection
-
+  - Protective/guardian role out of respect for mentor
+  - Ongoing responsibility and connection
 
 ## Long-term Projects
 
 ### Workshop/Garage Setup
 - **Goal:** Establish fully equipped technical workspace
-- **Progress:** 
-- **Next Steps:** 
-- **Timeline:** 
-
-### Pyrotechnic Experimentation
-- **Goal:** Develop new techniques and safety protocols
-- **Progress:** 
-- **Next Steps:** 
-- **Timeline:** 
-
-### Music Equipment Upgrades
-- **Goal:** Improve stage setup for performances
-- **Progress:** 
-- **Next Steps:** 
-- **Timeline:** 
+- **Status:** In planning/development phase
 
 ### Vehicle Maintenance & Upgrades
 - **Goal:** Maintain and improve his highly valued car/truck
-- **Progress:** Ongoing restoration and modification work
-- **Next Steps:** Performance upgrades, reliability improvements
-- **Timeline:** Continuous project, high priority
-- **Notes:** This vehicle holds significant personal value and receives dedicated attention
+- **Status:** Ongoing restoration and modification work
+- **Priority:** High - this vehicle holds significant personal value
+
+### Pyrotechnic Experimentation
+- **Goal:** Develop new techniques and safety protocols
+- **Status:** Ongoing hobby/passion project
+
+### Music Equipment Upgrades
+- **Goal:** Improve stage setup for performances
+- **Status:** Secondary priority to technical projects
 
 ### Information Network
-- **Goal:** Build reliable contact network
-- **Progress:** 
-- **Next Steps:** 
-- **Timeline:** 
+- **Goal:** Build reliable contact network for "fixer" work
+- **Status:** Development phase
 
---------------
-# Vampire Character Development
+## Character Development Notes
 
-## Physical Characteristics
+### Outstanding Decisions
+- **Clan Choice:** Final decision needed between Tzimisce vs. Gangrel/Brujah/Nosferatu
+- **Timeline Details:** Exact embrace timing and current vampire age
+- **Music Career Status:** Current activity level in underground scene
 
-- **Height:** 6'11" (approximately 7 feet)
-- **Weight:** ~350-400 lbs (estimated for well-built frame at that height)
-- **Build:** Extremely strong, well-built physique
-
-## Intelligence Profile
-
-- **Type:** Intuitive and practical intelligence
-- **Strengths:**
-    - Logical thinking
-    - Strategic thinking
-    - Mechanical innovation
-    - Improvisation skills
-- **Note:** Not academic intelligence - more hands-on, problem-solving oriented
-
-## Military Background (Primary)
-
-### Service Details
-
-- **Conflicts:** Korean War (1950-1953), Vietnam War, African conflicts (Suez Crisis, Congo Crisis)
-- **Role:** Combat engineer/demolitions specialist
-- **Timeline:** Enlisted at 18 (1950), served through Korean War into Vietnam era
-- **Key Leadership:** Served under Platoon Leader Hendrik, who later formed mercenary corp
-- **Learning Style:** Trial by fire - gained technical knowledge under pressure
-- **Skills Developed:**
-    - Technical problem-solving under extreme conditions
-    - Mechanical innovation/improvisation
-    - Strategic thinking
-    - Leadership/reliability under pressure
-- **Tragic Losses:** Lost close comrades Balder (1952) and "Pig-faced" Jack (1953) in Korean War
-
-### Post-Military Transition
-
-- **Smooth Adjustment:** No struggle transitioning to civilian life
-- **Consistent Motivation:** Both military and civilian careers were chosen to support his true interests
-- **Underground Metal Musician:** Natural extension of his interests - combined music passion with pyrotechnic skills
-- **Mechanic/Technical Work:** Applied military engineering knowledge in civilian context
-- **"Fixer" Reputation:** Became known as someone who gets things done reliably
-
-### Core Personality Traits
-
-- **Pragmatic Approach:** Chooses life paths that enable his hobbies/interests
-- **True Passions:**
-    - **Experimentation:** Driven by curiosity and the desire to test practical, tangible applications
-    - **Pyrotechnics & Mechanics:** Equally interested in both - enjoys hands-on learning and testing
-    - **Music:** Broad personal taste, but plays metal professionally (pyrotechnic show opportunities)
-- **Adaptable:** Comfortable in different environments as long as he can pursue his interests
-- **Self-Directed:** Makes life choices based on personal fulfillment rather than external expectations
-
-### Social Dynamics
-
-- **Demeanor:** Quiet, pragmatic, gentle giant type
-- **First Impressions:** Intimidating due to size, but behavior contradicts appearance
-- **Self-Perception:** Doesn't consider his physical stature as defining who he is as a person
-- **Attitude Toward Size:** Views his height/build as just appearance details, not personality traits
-- **Social Impact:** Aware that his size changes how others interact with him, but doesn't internalize it as part of his identity
-
-## Clan Considerations
-
-- **Tzimisce:** Interesting contrast (refined clan, giant member)
-- **Brute Clans:** Gangrel, Brujah, Nosferatu
-- **Disciplines:** Fortitude and/or Potence preferred
-
-## The Embrace
-
-### Why He Was Chosen
-
-- **Primary Reason:** "Fixer" reputation - someone who gets things done reliably
-- **Secondary Factors:**
-    - Physical stature provides intimidation factor
-    - Technical expertise for complex problems
-    - Strategic thinking for planning operations
-    - Proven ability to perform under extreme pressure
-
-### His Response to Vampirism
-
-- **Timing Dependent:** How he handled it varies based on when the Embrace occurred
-- **Coping Mechanism:** Endless work and hobby immersion to avoid dwelling on his nature
-- **Practical Approach:** Views new vampiric abilities as tools to be understood and utilized
-- **Experimental Nature:** Tests his powers to achieve goals, but doesn't dwell on their supernatural aspects
-- **Avoidance Strategy:** Keeps himself constantly busy to prevent introspection about his vampiric nature
-
-### Current State
-
-- **Workaholic Tendencies:** Creates work for himself as distraction from existential concerns
-- **Functional Adaptation:** Has adapted to vampiric existence through constant activity
-- **Emotional Management:** Uses productivity to maintain mental stability
-
-----
-## Outstanding Character Decisions
-
-### **Clan Choice** ⚠️ NEEDS DECISION
-
-- **Tzimisce Option:**
-    - Pros: Interesting contrast (refined clan, practical giant member)
-    - Cons: May not fit his straightforward personality
-    - Disciplines: Animalism, Dominate, Protean
-
-### **Timeline & Embrace Details** ⚠️ NEEDS DECISION
-
-- **Which War:** Vietnam, Korea, or African conflicts?
-- **Embrace Timing:** During military service vs. later as civilian?
-- **Current Age:** How long has he been a vampire?
-- **Music Career Status:** Still active performer or moved to other work?
-
-### **Background Consistency Check**
-
-- If embraced during military service: How does music career fit?
-- If embraced as civilian: Which war and what year of embrace?
-- Timeline must align with when underground metal scene existed
-
-## Sire Analysis & Relationship
-
-### **Why His Sire Chose Him**
-
-Beyond just the "fixer" reputation, his sire likely needed:
-
-#### **Operational Requirements**
-
-- **Complex Problem Solver:** Someone who could handle both technical challenges AND physical enforcement
-- **Reliable Asset:** Proven track record of completing difficult tasks under pressure
-- **Versatile Operative:** "Swiss Army knife" vampire who could adapt to various situations
-- **Long-term Projects:** Specific operations requiring both brains and brawn over extended periods
-
-#### **Rare Combination of Traits**
-
-- **Not Just Muscle:** Any vampire can get strong with disciplines - his value is the combination
-- **Technical + Physical + Strategic:** Very rare to find all three in one person
-- **Proven Reliability:** Military and civilian track record of getting things done
-- **Low Maintenance:** Self-directed personality means less micromanagement needed
-
-### **Potential Sire Types**
-
-- **Elder with Territory:** Needs reliable lieutenant for domain management
-- **Criminal Operations:** Requires someone for both planning and enforcement
-- **Camarilla Archon:** Needs versatile agent for various missions
-- **Independent Operator:** Wants capable partner for complex schemes
-
-### **Current Sire Relationship Questions** ⚠️ NEEDS DECISION
-
-- Does he still work for his sire directly?
-- Has he been "released" to operate independently?
-- What was his initial "assignment" after embrace?
-- How does his workaholic nature serve (or complicate) this relationship?
-
-## Character's Unique Value Proposition
-
-### **What Makes Him Special in Vampire Society**
-
+### Unique Value in Vampire Society
 1. **Practical Problem Solving:** Can fix things others can't or won't
 2. **Physical Presence + Intelligence:** Rare combination of intimidation and innovation
-3. **Reliability Under Pressure:** Proven in both mortal military and vampire contexts
-4. **Self-Sustaining:** Creates his own work, doesn't need constant direction
+3. **Reliability Under Pressure:** Proven track record in both mortal and vampire contexts
+4. **Self-Sustaining:** Creates his own work, needs minimal micromanagement
 5. **Adaptable Skill Set:** Can handle technical, social, or physical challenges
 
-### **Potential Roles in Kindred Society**
-
-- **Domain Troubleshooter:** Fixes problems other vampires can't handle
-- **Independent Contractor:** Takes jobs from multiple vampires
-- **Coterie Asset:** The one everyone calls when things get complicated
-- **Territory Manager:** Oversees practical aspects of vampire operations
-- **Information Broker:** Uses technical skills to gather intelligence
-
-## Questions for GM Discussion
-
-### **Background Integration**
-
-- What vampire factions exist in the setting?
-- Which clan would fit best with the chronicle's themes?
-- What role does the GM envision for this character?
-
-### **Timeline Alignment**
-
-- What year does the chronicle take place?
-- How does this affect his military service and embrace timing?
-- Are there specific historical events that would impact his background?
-
-### **Sire & Society Integration**
-
-- Will his sire be an active NPC in the chronicle?
-- What kind of "work" is available for his character type?
-- How do local Kindred view reliable "fixers"?
+### Potential Roles
+- Domain troubleshooter who fixes complex problems
+- Independent contractor taking jobs from multiple vampires
+- Coterie asset for complicated situations
+- Information broker using technical skills for intelligence gathering
